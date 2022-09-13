@@ -71,5 +71,3 @@ $("time#some_id").timeago("update", new Date());
 // Display original dates older than 24 hours
 jQuery.timeago.settings.cutoff = 1000*60*60*24;
 ```
-
-## Changes
