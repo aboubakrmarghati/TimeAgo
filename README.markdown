@@ -61,8 +61,6 @@ $("time#some_id").timeago("update", "2013-12-17T09:24:17Z");
 $("time#some_id").timeago("update", new Date());
 ```
 
-**For more usage and examples**: [http://timeago.yarp.com/](http://timeago.yarp.com/)
-
 **For different language configurations**: visit the [`locales`](https://github.com/rmm5t/jquery-timeago/tree/master/locales) directory.
 
 ## Settings
